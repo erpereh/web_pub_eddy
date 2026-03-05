@@ -52,10 +52,20 @@ export default function Hero() {
       </div>
 
       <div className="relative z-20 text-center px-4 max-w-5xl mx-auto flex flex-col items-center">
+        {/* Logo */}
+        <motion.div
+          initial={{ opacity: 0, y: -50, scale: 0.8 }}
+          animate={{ opacity: 1, y: 0, scale: 1 }}
+          transition={{ duration: 1, type: "spring", bounce: 0.4 }}
+          className="mb-8"
+        >
+          <img src="/logo.png" alt="Pub Eddy Logo" className="h-32 md:h-48 lg:h-56 object-contain drop-shadow-[0_0_15px_rgba(255,255,255,0.3)]" />
+        </motion.div>
+
         <motion.div
           initial={{ opacity: 0, scale: 0.9 }}
           animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 1 }}
+          transition={{ duration: 1, delay: 0.5 }}
           className="mb-6 inline-block"
         >
           <span className="px-4 py-1.5 rounded-full border border-white/20 glass-card text-xs font-mono tracking-widest text-neon-blue uppercase">
