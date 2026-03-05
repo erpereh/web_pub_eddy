@@ -51,16 +51,17 @@ export default function Hero() {
         />
       </div>
 
+      {/* Top Left Logo */}
+      <motion.div
+        initial={{ opacity: 0, x: -20, y: -20 }}
+        animate={{ opacity: 1, x: 0, y: 0 }}
+        transition={{ duration: 1, type: "spring", bounce: 0.4 }}
+        className="absolute top-6 left-6 md:top-10 md:left-10 z-50 pointer-events-none"
+      >
+        <img src="/logo.png" alt="Pub Eddy Logo" className="h-12 md:h-16 lg:h-20 object-contain drop-shadow-[0_0_10px_rgba(255,255,255,0.3)] rounded-3xl" />
+      </motion.div>
+
       <div className="relative z-20 text-center px-4 max-w-5xl mx-auto flex flex-col items-center">
-        {/* Logo */}
-        <motion.div
-          initial={{ opacity: 0, y: -50, scale: 0.8 }}
-          animate={{ opacity: 1, y: 0, scale: 1 }}
-          transition={{ duration: 1, type: "spring", bounce: 0.4 }}
-          className="mb-8"
-        >
-          <img src="/logo.png" alt="Pub Eddy Logo" className="h-32 md:h-48 lg:h-56 object-contain drop-shadow-[0_0_15px_rgba(255,255,255,0.3)]" />
-        </motion.div>
 
         <motion.div
           initial={{ opacity: 0, scale: 0.9 }}
