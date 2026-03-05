@@ -1,0 +1,51 @@
+DOCUMENTO DE CONTEXTO ESTRATÉGICO Y OPERATIVO: PUB EDDY (MADRID)
+(Usa esta información para redactar el copy, estructurar la web y entender la psicología del cliente)
+
+--- 1. CONTEXTO SOCIOLÓGICO Y FILOSOFÍA DEL LOCAL ---
+Pub Eddy no es un simple bar de copas; es un "tercer lugar" sociológico. A diferencia de las discotecas del centro financiero o turístico de Madrid, este local, ubicado en un barrio periférico residencial, funciona como un ancla de cohesión social para la comunidad. No solo vende alcohol, vende un espacio neutral y accesible donde los vecinos interactúan y se sienten acogidos. La web debe transmitir ese calor humano, esa falta de pretensiones y ese orgullo de barrio (Villa de Vallecas).
+
+--- 2. ANÁLISIS GEOESPACIAL Y CAPTACIÓN DE CLIENTES ---
+- Dirección Exacta: Calle del Puerto de Alazores, 11, 28031 Madrid (Casco Histórico de Vallecas).
+- Logística y Transporte: Está a escasos minutos a pie de la Línea 1 de Metro (estaciones Villa de Vallecas y Sierra de Guadalupe). Esto es una ventaja brutal: permite atraer a clientes de otros distritos sin que necesiten coche o Uber.
+- Ecosistema y Sinergias (Para SEO): Está rodeado de lugares clave como la Iglesia de San Pedro Ad-víncula, el Polideportivo Miguel Guillén Prim y un Mercadona. 
+- Oportunidad de "Debriefing": Muy cerca está el "Bite the Fly Escape Room" (C. del Puerto de Pozazal, 4). La web debe estar optimizada para captar a los grupos que salen de ese escape room y buscan un lugar cercano para tomar algo y debatir sobre el juego.
+
+--- 3. ARQUITECTURA, AFORO Y ERGONOMÍA ---
+El local tiene un aforo legal para 250 personas (ideal para fiestas de cumpleaños y eventos masivos). El espacio está dividido estratégicamente para diferentes estados de ánimo:
+- Zona de Barra: Con taburetes altos, diseñada para transacciones rápidas y contacto directo con los bartenders.
+- Área Lounge: Equipada con sofás confortables y mesas bajas. Diseñada psicológicamente para alargar el "dwell time" (tiempo de permanencia). Los grupos que se sientan aquí consumen más rondas a lo largo de la noche.
+- Pista de Baile: Espacios diáfanos que fomentan el movimiento.
+- Accesibilidad (Importante): El local carece de adaptación para personas en silla de ruedas o con movilidad reducida severa. Esto debe comunicarse con honestidad y empatía en la web para evitar frustraciones y malas reseñas.
+
+--- 4. CRONOGRAMA OPERATIVO (LOS HORARIOS) ---
+Pub Eddy es el "last stop" (la última parada) de la noche en Vallecas.
+- Abre a las 19:30 todos los días operativos, captando el tráfico de "afterwork".
+- Cierra a las 03:00 los martes, miércoles, jueves y domingos.
+- Cierra a las 03:30 los viernes y sábados (aprovechando el pico máximo de consumo de alcohol de fin de semana).
+- Discrepancia del Lunes: Hay dudas en internet sobre si abre o cierra los lunes. (Para la web, indicar "Lunes: Consultar disponibilidad o descanso del personal").
+
+--- 5. MATRIZ ECONÓMICA Y LA REVOLUCIÓN "BYOF" ---
+El local no tiene cocina caliente. Solo vende líquidos y snacks muy básicos (conocidos por los clientes como "las chuches y las pipas"). Su posicionamiento económico es popular, con un ticket medio de 10 a 20 euros.
+- Precios Ancla (Destacar en la web): Pinta de cerveza de barril a 3,00 €; Copa de vino a 5,00 €; Cócteles y mixología a 6,00 €.
+- El modelo BYOF (Bring Your Own Food): Es su arma secreta. Permiten a los clientes traer su propia cena, pedir comida a domicilio (delivery) al propio local, o traer la tarta de cumpleaños SIN COBRAR EXTRAS NI DESCORCHES. Esto democratiza la celebración de eventos para grupos con distinto poder adquisitivo. El pub cede la comida, pero gana un monopolio absoluto en la venta de bebidas durante horas.
+
+--- 6. ENTRETENIMIENTO Y GAMIFICACIÓN ---
+Para evitar que la gente se aburra y se vaya, el pub cuenta con "rompehielos sociales":
+- Mesa de billar, Diana electrónica para dardos y Futbolín clásico.
+- Estas herramientas prolongan la estancia de los grupos en ciclos de 30-45 minutos por partida, lo que se traduce directamente en la compra de más bebidas.
+- Disponen también de Karaoke para dinamizar fiestas privadas.
+
+--- 7. IDENTIDAD SONORA MUSICAL ---
+La música es comercial, latina y urbana. Suena predominantemente Reggaetón, Bachata y Electro Latino. Esto garantiza el éxito entre los jóvenes y estudiantes, aunque ahuyenta a los amantes del rock. La web debe dejar clara esta identidad festiva y de baile comercial. (Nota interna: Cuentan con cabina de DJ, pero a veces sufre de mala ecualización).
+
+--- 8. REPUTACIÓN ONLINE Y TESTIMONIOS (VITAL PARA EL COPY) ---
+Actualmente no tienen web y sus redes (Instagram/Facebook) están rotas o no existen. Sobreviven de milagro gracias al boca a boca y a reseñas en directorios donde tienen notas altísimas (4.8 en Restaurant Guru, 8.4 en Revolutionrockbar). 
+- Citas reales de clientes para inspirar los textos:
+  * Eva Rivera Suero dice que es "mi casa".
+  * Eva Ramírez Manzanares lo define como "el mejor Pub en el barrio de toda la vida".
+  * Paola Bastida indica que es "lo más decente que se puede encontrar en la zona" para ir con amigos.
+
+--- 9. DIRECTRICES DE DISEÑO Y SEO PARA LA WEB ---
+- UI/UX: Estética "Neon Noir" (Fondos negros puros #000000 o grises carbón, imitando la oscuridad del club). Acentos en colores neón saturados (púrpuras, fucsias, azules eléctricos) imitando los láseres de la pista. Tipografías sans-serif muy legibles en móviles (el 80% de las búsquedas serán desde el móvil).
+- Multimedia: Deberá organizarse una sesión de fotos reales mostrando el billar, los sofás llenos de gente y bodegones de las pintas de 3€.
+- SEO Local: Atacar búsquedas clave como "pub asequible en Villa de Vallecas", "celebrar cumpleaños Vallecas sin coste comida", "discoteca barata con billar y futbolín en Madrid sur".
