@@ -1,20 +1,37 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Pub Eddy Web App
 
-# Run and deploy your AI Studio app
+Esta es la aplicación web oficial para el local "Pub Eddy" situado en Villa de Vallecas, Madrid.
+Desarrollada con un diseño moderno "Neon Noir" utilizando React, Tailwind CSS y Framer Motion para animaciones interactivas y dinámicas.
 
-This contains everything you need to run your app locally.
+## Stack Tecnológico
 
-View your app in AI Studio: https://ai.studio/apps/8994ea8c-6a4a-46fa-ae18-5bc3015af477
+- **React** (Interfaz de usuario)
+- **Vite** (Emperquetador y entorno de desarrollo rápido)
+- **Tailwind CSS** (Estilos y sistema de clases utility-first)
+- **Framer Motion** (Animaciones complejas y fluidas)
+- **Lucide React** (Iconografía)
 
-## Run Locally
+## Cómo empezar el entorno de desarrollo
 
-**Prerequisites:**  Node.js
+Sigue estos pasos para arrancar el proyecto en tu máquina local.
 
+1. **Instalar las dependencias:**
+   ```bash
+   npm install
+   ```
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+2. **Levantar el entorno de desarrollo en local:**
+   ```bash
+   npm run dev
+   ```
+
+3. **Construir el proyecto para producción:**
+   ```bash
+   npm run build
+   ```
+
+## Integraciones y Características
+- Modelo BYOF y sistema de pricing honesto.
+- Secciones interactivas para "El Ambiente" simulando las actividades recreativas (Billar, Futbolín, etc.).
+- Formulario de contacto y reservas.
+- Optimizado para SEO geográfico a nivel local.
