@@ -11,3 +11,5 @@ coverage/
 .agent
 .cline
 .gemini
+.contexto.txt
+.informacion.txt
